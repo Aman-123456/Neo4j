@@ -1,0 +1,579 @@
+[
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6362,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "ndtv"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6363,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "967889443519475712"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6364,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "VijayKu12800414"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6365,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "959939327785500672"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6366,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "moorlee"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6367,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "951241507012534273"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6368,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "937468998022725632"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6369,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "JessdoBieber1"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6370,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "968998536187695104"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6371,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "SanjayP44365097"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6372,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "963924863776849920"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6373,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "963924883179757569"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6374,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "Bharatvanshi211"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6375,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "943628501378269185"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6376,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "967872589493235712"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6377,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "EfRakesh"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6378,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "961751086519349248"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 6379,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "sonali_ck"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 211700,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "951966186304020480"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 211701,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "vijaybohay83"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 211702,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "944356502143369216"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 211703,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "MaduCleto"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 211704,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "968999025017081856"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 211705,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "auth_screen_name": "Mukesh83384051"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  },
+  {
+    "keys": [
+      "n"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "identity": {
+          "low": 211706,
+          "high": 0
+        },
+        "labels": [
+          "Tweet"
+        ],
+        "properties": {
+          "tweetid": "936736863733235712"
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "n": 0
+    }
+  }
+]
+
+Started streaming 25 records after 1 ms and completed after 14 ms.

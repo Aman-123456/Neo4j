@@ -1,0 +1,15 @@
+Question 6
+
+MATCH (u1:User)-[:TWEETS]->(t1:Tweet)-[:MENTIONS]->(u2:User)
+       WHERE u2.auth_screen_name="narendramodi"
+       return u2.auth_screen_name,u1.auth_screen_name,COLLECT(t1.tweetid),Count(*) As count
+       ORDER BY count DESC;
+
+
+Question 8
+
+MATCH (u1:Author)-[:TWEETS]->(t1:Tweet)<-[:intweetid]-(h1:Hashtag)
+       WHERE h1.hashtag='MondayMotivation'
+       return h1.hashtag,u1.auth_screen_name,COLLECT(t1.tweetid),Count(*) As count
+       ORDER BY count DESC;
+
